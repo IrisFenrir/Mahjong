@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 9425bf518031fb04b95c958ce42a93ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5s_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79617e1f07725946ab14097b50650c7
+      internalID: -2009982964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_1s
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1fe32f32d72043b1740331f019ed7
+      internalID: 694665517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_2s
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c0131778b6e546b5e9ebbba7e2dee
+      internalID: -1157911226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_3s
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e3de2ea8e88343a988c0a8d2fd4bb
+      internalID: 1198624343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_4s
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f52b8f230c2264a8c40f765f576166
+      internalID: -1467532595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5s
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda771c8aed65144aa840b2722930e0
+      internalID: -584228547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_6s
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12591d33be19c840a32488a809d37e1
+      internalID: -1059481505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_7s
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a6c16697496364bb64efc03f6a5367
+      internalID: -314526521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_8s
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb311ebd34725ee4aaa15048fef9ad07
+      internalID: -1795709763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_9s
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1620
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e40fd3a4197474e8fd5acda8ccd8dc
+      internalID: 989429608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5m_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb569febfc9804b4691743f7d1e2b403
+      internalID: -2129657165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_1m
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d488076d452a824499a217cf40c30d5
+      internalID: -1862603986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_2m
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025026d726ca1084fba49b0a6c44385e
+      internalID: 558870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_3m
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda3cbd205ed164c9ee68bfdb66c0e6
+      internalID: 1151725767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_4m
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f124f022b07a66498de7230eeed1325
+      internalID: -834547777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5m
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1cb352d1ceaa4982d019f350b1501
+      internalID: 1447133380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_6m
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d150a8d701e9b64f8ff4ef8a5af6932
+      internalID: -1514964409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_7m
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7979822fffe9654bb023c5b0634d813
+      internalID: 251448412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_8m
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d115eb3aef774388d4e869afc296d
+      internalID: -89355910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_9m
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1080
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996bb669a17089d40b8b30af44a522ab
+      internalID: 1193324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5p_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf9b7ddff4908a4ab2dbf51b3e510c7
+      internalID: 954035099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_1p
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4a7122c34c86c49ba708f1191dee9c
+      internalID: 639620873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_2p
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0f97fc23f48841b47aaf11d211ff2
+      internalID: -897679169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_3p
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5363af1d794048810524a4095d7e2
+      internalID: -1133476106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_4p
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffdbfb7ee4b813419a6a5e925310651
+      internalID: -621419745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4ec31e95bd014f9b81a285e00e48e
+      internalID: 924174709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_6p
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25275063da1c9ed40b28a17f42a56c6a
+      internalID: 1872933195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_7p
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fdcacce707844591bd49b1c46ee50
+      internalID: 931874043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_8p
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bbfbb40f2127a429e5f3a5f3c9d630
+      internalID: -654651994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_9p
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 540
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaaed80bfc3a4c48aaf788da0fbc0a7
+      internalID: 1637749210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_East
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839a7c2c7d46d1748a59e36880b67064
+      internalID: 465306727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_South
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7198353543abe48ae50d2d4b57f0fa
+      internalID: 928672805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_West
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 335
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe65981ed5b9614b8fddb2a8652105e
+      internalID: -449061153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_North
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220cec8c9fc3194fb292bb6f4606e71
+      internalID: -1364277038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_White
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00965ba9c38d746a2bb4019484e49a
+      internalID: 218355448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_Green
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060bb7cbb322de45975532d6e46f6da
+      internalID: -179012145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_Red
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854b70f256a1ec941a28f6a2648f66c3
+      internalID: -168056770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Tile_Blue_Back
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 0
+        width: 334.8
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96675080b42b846aa2eea265f4c59d
+      internalID: 1243861299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Tile_Blue_1m: -1862603986
+      UI_Tile_Blue_1p: 639620873
+      UI_Tile_Blue_1s: 694665517
+      UI_Tile_Blue_2m: 558870631
+      UI_Tile_Blue_2p: -897679169
+      UI_Tile_Blue_2s: -1157911226
+      UI_Tile_Blue_38: -191480954
+      UI_Tile_Blue_39: 1592971149
+      UI_Tile_Blue_3m: 1151725767
+      UI_Tile_Blue_3p: -1133476106
+      UI_Tile_Blue_3s: 1198624343
+      UI_Tile_Blue_4m: -834547777
+      UI_Tile_Blue_4p: -621419745
+      UI_Tile_Blue_4s: -1467532595
+      UI_Tile_Blue_5: 924174709
+      UI_Tile_Blue_5m: 1447133380
+      UI_Tile_Blue_5m_Red: -2129657165
+      UI_Tile_Blue_5p_Red: 954035099
+      UI_Tile_Blue_5s: -584228547
+      UI_Tile_Blue_5s_Red: -2009982964
+      UI_Tile_Blue_6m: -1514964409
+      UI_Tile_Blue_6p: 1872933195
+      UI_Tile_Blue_6s: -1059481505
+      UI_Tile_Blue_7m: 251448412
+      UI_Tile_Blue_7p: 931874043
+      UI_Tile_Blue_7s: -314526521
+      UI_Tile_Blue_8m: -89355910
+      UI_Tile_Blue_8p: -654651994
+      UI_Tile_Blue_8s: -1795709763
+      UI_Tile_Blue_9m: 1193324867
+      UI_Tile_Blue_9p: 1637749210
+      UI_Tile_Blue_9s: 989429608
+      UI_Tile_Blue_Back: 1243861299
+      UI_Tile_Blue_East: 465306727
+      UI_Tile_Blue_Green: -179012145
+      UI_Tile_Blue_North: -1364277038
+      UI_Tile_Blue_Red: -168056770
+      UI_Tile_Blue_South: 928672805
+      UI_Tile_Blue_West: -449061153
+      UI_Tile_Blue_White: 218355448
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
